@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">GET</string>
+    <string name="tab_text_2">POST</string>
+    <string name="tab_text_3">PUT</string>
+    <string name="tab_text_4">PATCH</string>
+    <string name="tab_text_5">DELETE</string>
+</resources>
